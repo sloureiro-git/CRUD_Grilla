@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AE982B-3365-4215-8B7C-F44B999A1CE3}|Presentacion\\Presentacion.csproj|c:\\users\\santiago\\source\\repos\\crud_grilla\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6AE982B-3365-4215-8B7C-F44B999A1CE3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6AE982B-3365-4215-8B7C-F44B999A1CE3}|Presentacion\\Presentacion.csproj|c:\\users\\santiago\\source\\repos\\crud_grilla\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6AE982B-3365-4215-8B7C-F44B999A1CE3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E0EFE7-5555-403A-92EA-8C150EDBB221}|Negocio\\Negocio.csproj|c:\\users\\santiago\\source\\repos\\crud_grilla\\negocio\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E0EFE7-5555-403A-92EA-8C150EDBB221}|Negocio\\Negocio.csproj|solutionrelative:negocio\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6291232-0C0A-494D-BEBB-4BF2293A96B1}|Persistencia\\Persistencia.csproj|c:\\users\\santiago\\source\\repos\\crud_grilla\\persistencia\\persistenciavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6291232-0C0A-494D-BEBB-4BF2293A96B1}|Persistencia\\Persistencia.csproj|solutionrelative:persistencia\\persistenciavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5D37C-EBE0-4FF7-B487-B8FEEB397163}|Entidades\\Entidades.csproj|c:\\users\\santiago\\source\\repos\\crud_grilla\\entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5D37C-EBE0-4FF7-B487-B8FEEB397163}|Entidades\\Entidades.csproj|solutionrelative:entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:23:30.189Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:22:59.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logica.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Negocio\\Logica.cs",
+              "RelativeDocumentMoniker": "Negocio\\Logica.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Negocio\\Logica.cs",
+              "RelativeToolTip": "Negocio\\Logica.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:19:49.702Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersistenciaVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Persistencia\\PersistenciaVehiculo.cs",
+              "RelativeDocumentMoniker": "Persistencia\\PersistenciaVehiculo.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Persistencia\\PersistenciaVehiculo.cs",
+              "RelativeToolTip": "Persistencia\\PersistenciaVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:28:49.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Entidades\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\CRUD_Grilla\\Entidades\\Vehiculo.cs",
+              "RelativeToolTip": "Entidades\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:11:14.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
